@@ -11,7 +11,7 @@ db_config = {
     'host': 'bloodbridge-db.cjk8kyagmto0.us-east-1.rds.amazonaws.com',
     'user': 'admin',
     'password': 'admin123',
-    'database': 'bloodbridge'
+    'database': 'Bloodbridge'
 }
 
 # Create a connection pool
